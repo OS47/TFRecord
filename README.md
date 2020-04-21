@@ -1,5 +1,5 @@
 # TFRecord
-This is a practice using and creating TFRecord data format which applied on skin caner Dataset from udacity DL nano degree
+This is a practice using and creating TFRecord data format which applied on skin cancer Dataset from udacity DL nano degree
 
 There are Two files</br>
 1- TFRecord-datasets.ipynb : which convert all data elements which are image pixels, label, height, width and channels</br>
