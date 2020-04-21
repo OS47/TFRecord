@@ -1,7 +1,7 @@
 # TFRecord
 This is a practice using and creating TFRecord data format which applied on skin caner Dataset from udacity DL nano degree
 
-there are Two files</br>
+There are Two files</br>
 1- TFRecord-datasets.ipynb : which convert all data elements which are image pixels, label, height, width and channels</br>
 2- TFRecord-datasets-without_dim.ipynb : convert only image path and label</br>
 
